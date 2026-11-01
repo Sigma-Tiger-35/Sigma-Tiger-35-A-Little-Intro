@@ -1,0 +1,13 @@
+# Intro
+
+- 👋 Hi, I’m Sigma-Tiger-35.
+
+- 🐍 I code in Python and currently learning C.
+
+- ⚙ I would appreciate some help with bug fixes.
+
+- 💻 If anyone finds any bugs please let me know.
+
+- ⭐ And if you like any of my repos you can star them.
+
+- 😃 Thank you.
